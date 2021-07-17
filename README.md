@@ -23,3 +23,6 @@ https://www.codewars.com/kata/514a024011ea4fb54200004b
 
 Day 07: String Transformer: 
 https://www.codewars.com/kata/5878520d52628a092f0002d0/
+
+Day 08: Count Characters in your String:
+https://www.codewars.com/kata/52efefcbcdf57161d4000091
