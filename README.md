@@ -26,3 +26,6 @@ https://www.codewars.com/kata/5878520d52628a092f0002d0/
 
 Day 08: Count Characters in your String:
 https://www.codewars.com/kata/52efefcbcdf57161d4000091
+
+Day 09: Highest Scoring Word:
+https://www.codewars.com/kata/57eb8fcdf670e99d9b000272 
