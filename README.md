@@ -1,7 +1,7 @@
 # DailyStandups
 Mega Summer Daily Standups
 
-This is a collection of the 100Devs Daily Standup challenges. Besides updating here daily, I'm also sending out an organized Google Doc.  These files are a copy/paste of the Google Doc, so they've lost most of the formatting but kept the content.  Next step is to turn the notes into blog posts and tutorials for new students.
+This is a collection of the 100Devs Daily Standup challenges. Besides updating here daily, I'm also sending out an organized Google Doc.  These files are a copy/paste of the Google Doc, so they've lost most of the formatting but kept the content.  The next step is to turn the notes into blog posts and tutorials for new students.
 
 Day 01: Square(n) Sum 
 https://www.codewars.com/kata/515e271a311df0350d00000f
