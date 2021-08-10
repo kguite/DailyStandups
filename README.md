@@ -29,3 +29,34 @@ https://www.codewars.com/kata/52efefcbcdf57161d4000091
 
 Day 09: Highest Scoring Word:
 https://www.codewars.com/kata/57eb8fcdf670e99d9b000272 
+
+Day 10: Duplicate Encoder
+
+Day 11: Max-Min Arrays
+
+Day 12: Numbers To Letters
+
+Day 13: Sort by Last Char 
+
+Day 14: Array.diff 
+
+Day 15: Sort the Odd 
+
+Day 16: Two Oldest Ages
+
+Day 17: Find the Capitals
+
+Day 18: String Array Duplicates
+
+Day 19: Lost Number in Number Sequence 
+
+Day 20: Double Sort 
+
+Day 21: Find the Middle Element 
+
+Day 22: Absent Vowel 
+
+Day 23: The Average Length 
+
+Day 24: Fizz Buzz (on Codewars, but Leon linked this medium article, it’s #4 on the list) 
+
