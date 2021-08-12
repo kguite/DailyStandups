@@ -60,3 +60,4 @@ Day 23: The Average Length
 
 Day 24: Fizz Buzz (on Codewars, but Leon linked this medium article, it’s #4 on the list) 
 
+25:
