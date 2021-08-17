@@ -63,3 +63,5 @@ Day 24: Fizz Buzz (on Codewars, but Leon linked this medium article, it’s #4 o
 25:
 
 26:
+
+27:
